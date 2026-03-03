@@ -1,6 +1,6 @@
-# BDO JP English Language Auto-Updater
+# BDO English Language Auto-Updater
 
-Automates restoration of the English language file for **Black Desert Online (JP server)** after weekly patches.
+Automates restoration of the English language file for **Black Desert Online (non-English servers)** after weekly patches.
 
 ## What This Tool Does
 
