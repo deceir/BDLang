@@ -55,9 +55,7 @@ Public Class BDOLang
 
     End Function
 
-    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
-    End Sub
 
     Private Sub RadioButton1_CheckedChanged(sender As Object, e As EventArgs) Handles rdBtnEng.CheckedChanged
         btnFetch.Enabled = True
