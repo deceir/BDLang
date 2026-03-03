@@ -89,7 +89,3 @@ This project is not affiliated with Pearl Abyss.
 
 
 ---
-
-## License
-
-Specify your preferred license here (MIT recommended if open source).
