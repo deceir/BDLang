@@ -4,7 +4,7 @@ Automates restoration of the English language file for **Black Desert Online (no
 
 ## What This Tool Does
 
-After each patch, the JP client replaces or invalidates the English language file.
+After each patch, the client replaces or invalidates the English language file when playing on non-English servers.
 This tool automates the manual process by:
 
 1. Fetching the official manifest file.
