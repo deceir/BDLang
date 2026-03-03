@@ -28,8 +28,6 @@ Partial Class BDOLang
         Me.btnFetch = New System.Windows.Forms.Button()
         Me.lblCode = New System.Windows.Forms.Label()
         Me.lblInfo = New System.Windows.Forms.Label()
-        Me.FolderBrowserDialog1 = New System.Windows.Forms.FolderBrowserDialog()
-        Me.FolderBrowserDialog2 = New System.Windows.Forms.FolderBrowserDialog()
         Me.TextBox1 = New System.Windows.Forms.TextBox()
         Me.lblBDOFILELOC = New System.Windows.Forms.Label()
         Me.lblFileLocHelp = New System.Windows.Forms.Label()
@@ -158,8 +156,6 @@ Partial Class BDOLang
     Friend WithEvents btnFetch As Button
     Friend WithEvents lblCode As Label
     Friend WithEvents lblInfo As Label
-    Friend WithEvents FolderBrowserDialog1 As FolderBrowserDialog
-    Friend WithEvents FolderBrowserDialog2 As FolderBrowserDialog
     Friend WithEvents TextBox1 As TextBox
     Friend WithEvents lblBDOFILELOC As Label
     Friend WithEvents lblFileLocHelp As Label
