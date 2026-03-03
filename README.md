@@ -40,13 +40,8 @@ If the game is installed under `Program Files`, you may need to run this tool as
 
 ## Usage
 
-1. Launch the application.
-2. Click **Browse** and select your existing:
-
-   ```
-   languagedata_en.loc
-   ```
-3. Click **Update**.
+1. Launch the application, AFTER patching from the Black Desert launcher.
+2. Click **Fetch** and choose the correct .loc file.
 4. Wait for completion.
 5. Launch Black Desert.
 
