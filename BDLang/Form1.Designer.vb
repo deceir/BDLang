@@ -146,7 +146,7 @@ Partial Class BDOLang
         Me.Controls.Add(Me.Title)
         Me.Controls.Add(Me.progressBar)
         Me.Name = "BDOLang"
-        Me.Text = "Form1"
+        Me.Text = "BDLang"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
